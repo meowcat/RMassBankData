@@ -1,0 +1,13 @@
+Package: RMassBankData
+Type: Package
+Title: Test dataset for RMassBank
+Version: 0.99.0
+Author: Michael Stravs
+Maintainer: Michael Stravs <massbank@eawag.ch>
+Description: Example spectra, a example compound list and an example annotation
+    list for a narcotics dataset; required to test RMassBank. The package is
+    described in the man page for RMassBankData.
+biocViews: ExperimentData, MassSpectrometryData
+License: Artistic-2.0
+Suggests: RMassBank
+Collate: 'RMassBankData.R'
