@@ -1,0 +1,6 @@
+inst/infolists
+inst/infolists_edited
+inst/infolists_incomplete
+inst/list
+inst/results
+inst/spectra
