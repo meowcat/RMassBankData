@@ -4,3 +4,4 @@ inst/infolists_incomplete
 inst/list
 inst/results
 inst/spectra
+inst/spectra.Glucolesquerellin

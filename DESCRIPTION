@@ -1,13 +1,14 @@
 Package: RMassBankData
 Type: Package
 Title: Test dataset for RMassBank
-Version: 0.99.4
-Author: Michael Stravs
-Maintainer: Michael Stravs <massbank@eawag.ch>
-Description: Example spectra, a example compound list and an example annotation
+Version: 1.0.0
+Author: Michael Stravs, Emma Schymanski, Steffen Neumann
+Maintainer: Michael Stravs, Emma Schymanski <massbank@eawag.ch>
+Description: Example spectra, example compound list(s) and an example annotation
     list for a narcotics dataset; required to test RMassBank. The package is
-    described in the man page for RMassBankData.
+    described in the man page for RMassBankData. Includes new XCMS test data.
 biocViews: ExperimentData, MassSpectrometryData
 License: Artistic-2.0
 Suggests: RMassBank
 Collate: 'RMassBankData.R'
+Packaged: 2013-04-04 19:09:34 UTC; biocbuild
