@@ -1,7 +1,7 @@
 Package: RMassBankData
 Type: Package
 Title: Test dataset for RMassBank
-Version: 1.18.0
+Version: 1.19.0
 Author: Michael Stravs, Emma Schymanski, Steffen Neumann
 Maintainer: Michael Stravs, Emma Schymanski <massbank@eawag.ch>
 Description: Example spectra, example compound list(s) and an example annotation
